@@ -1,6 +1,6 @@
 # FICBANK Security Control Implementation and Validation
 
-📄 Full Report: [View PDF](PASTE-YOUR-GITHUB-LINK-HERE)
+📄 Full Report: [View PDF](https://github.com/Viney-Washington/FICBANK-Security-Control-Implementation-and-Validation/blob/main/Viney%20Washington_Security%20Assessment%20Report%20.pdf)
 
 ## Overview
 This project focuses on applying and validating security controls within a financial institution (FICBANK). Based on previously identified vulnerabilities, security controls were implemented to reduce risk, improve system hardening, and strengthen overall security posture.
